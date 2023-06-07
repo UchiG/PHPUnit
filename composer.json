@@ -1,0 +1,17 @@
+{
+    "name": "uchir/php-unit-course",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Uchirai",
+            "email": "uchirai.govere@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "10.2"
+    }
+}
