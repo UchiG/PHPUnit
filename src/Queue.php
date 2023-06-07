@@ -7,6 +7,11 @@
  */
 class Queue
 {
+    /**
+     * Maximum number of items in the queue
+     * @var integer
+     */
+    public const MAX_ITEMS = 5;
 
     /**
      * Queue items
